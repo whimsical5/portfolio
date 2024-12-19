@@ -4,8 +4,8 @@ function About() {
     return (
         <section id="about" className="py-20 bg-gray-800">
             <div className="text-center">
-            <h2 className="text-5xl font-bold text-teal-400">About Me</h2>
-            <p className="text-gray-300 text-lg mt-4">
+            <h2 className="text-xl font-bold text-teal-400">About Me</h2>
+            <p className="text-gray-300 text-sm ml-10 mr-10 mt-4">
                 Highly motivated software engineer with a strong foundation in web development and a
                 proven track record in full-stack projects. Skilled in Angular, React, Python, MongoDB,
                 and C++, with professional experience enhancing website performance and user experiences.

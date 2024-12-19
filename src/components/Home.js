@@ -9,17 +9,17 @@ function Home() {
             className="h-screen flex items-center justify-center bg-gray-900"
         >
             <div className="text-center">
+                <div className="h-40 w-40 mb-16 rounded-full mx-auto">
                 <img
                     src={profileImage}
                     alt="Profile Image"
-                    className="w-32 h-32 mx-auto shadow-md border-1 border-gray-300"
                 />
-
-                <h1 className="text-5xl font-bold text-teal-400">Hi, I'm Atharva Jadhav</h1>
-                <p className="text-gray-300 text-lg mt-4">
+                </div>
+                <h1 className="text-2xl font-bold text-teal-400">Hi, I'm Atharva Jadhav</h1>
+                <p className="text-gray-300 text-md mt-4">
                     A Software Developer passionate about building impactful solutions.
                 </p>
-                <div className="mt-6 space-x-4">
+                <div className="text-xs mt-6 space-x-4">
                     <a
                         href="resumeAtharvaJA.pdf"
                         download
