@@ -12,7 +12,7 @@ function Home() {
                 <div className="h-40 w-40 mb-16 rounded-full mx-auto">
                 <img
                     src={profileImage}
-                    alt="Profile Image"
+                    alt="Profilescene"
                 />
                 </div>
                 <h1 className="text-2xl font-bold text-teal-400">Hi, I'm Atharva Jadhav</h1>
